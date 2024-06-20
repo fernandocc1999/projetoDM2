@@ -62,17 +62,3 @@ tensorboard-data-server==0.7.0
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.13.0
 tensorflow-estimator==2.13.0
-tensorflow-intel==2.13.0
-tensorflow-io-gcs-filesystem==0.31.0
-termcolor==2.4.0
-threadpoolctl==3.5.0
-toml==0.10.2
-toolz==0.12.1
-tornado==6.4.1
-typing_extensions==4.5.0
-tzdata==2024.1
-urllib3==2.2.1
-watchdog==4.0.1
-Werkzeug==3.0.3
-wrapt==1.16.0
-zipp==3.19.2
